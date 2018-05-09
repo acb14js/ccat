@@ -51,7 +51,7 @@ python2 gui/gui.py
 ## Running Evaluation Code
 
 The algorithm can be tested upon sample datasets.
-First download the evaluation code from https://goo.gl/CaUMWb.
+First download the evaluation data from https://goo.gl/CaUMWb.
 The extract this into the evaluation folder.
 From the application root directory run.
 
